@@ -23,3 +23,9 @@ h1 {
 
   height: 600px;
 }
+
+.header {
+  background-color: burlywood;
+  position: fixed;
+  width: 100%;
+}
