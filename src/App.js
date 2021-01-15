@@ -5,8 +5,6 @@ export default function App() {
   return (
     <div>
       <Logo />
-      <h2>Description</h2>
-      <Logo />
     </div>
   );
 }
